@@ -12,8 +12,3 @@ ASP.NET Core Web API project.
 - ASP.NET Core 8
 - Entity Framework Core
 - SQL Server
-# Employee Management API
-
-## Swagger UI
-
-![Swagger UI](swagger-home.png)
