@@ -12,3 +12,16 @@ ASP.NET Core Web API project.
 - ASP.NET Core 8
 - Entity Framework Core
 - SQL Server
+- Swagger-Home.PNG
+
+- ## Swagger UI
+
+ Swagger-Home.PNG
+
+## Tech Stack
+
+- ASP.NET Core 8
+- C#
+- Entity Framework Core
+- SQL Server
+- Swagger
