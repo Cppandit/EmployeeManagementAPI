@@ -16,4 +16,4 @@ ASP.NET Core Web API project.
 
 ## Swagger UI
 
-![Swagger UI](images/swagger-home.png)
+![Swagger UI](swagger-home.png)
